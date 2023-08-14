@@ -8,7 +8,7 @@ Para interagir com a API TOTVS, você pode enviar solicitações HTTP GET para e
 
 ### URL Base
 
-A URL base para acessar a API TOTVS é: `http://seu-domínio-da-api.com`
+A URL base para acessar a API TOTVS é: `https://fastapiserver.onrender.com/`
 
 ### Endpoints
 

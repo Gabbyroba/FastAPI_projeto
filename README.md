@@ -4,7 +4,7 @@ Bem-vindo à documentação da API TOTVS. Esta API, baseada em FastAPI, oferece 
 
 ## Primeiros Passos
 
-Para interagir com a API TOTVS, você pode enviar solicitações HTTP GET para pontos de extremidade específicos. Abaixo estão os pontos de extremidade disponíveis, juntamente com suas descrições.
+Para interagir com a API TOTVS, você pode enviar solicitações HTTP GET para endpoints específicos. Abaixo estão os pontos de extremidade disponíveis, juntamente com suas descrições.
 
 ### URL Base
 

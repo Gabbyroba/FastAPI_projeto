@@ -77,7 +77,7 @@ Resposta:
 
 ## Tratamento de Erros
 
-Em caso de ponto de extremidade inválido ou ID de produto inválido, você receberá uma mensagem de erro apropriada.
+Em caso de endpoint inválido ou ID de produto inválido, você receberá uma mensagem de erro apropriada.
 
 ## Conclusão
 

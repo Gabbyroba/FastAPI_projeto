@@ -1,6 +1,6 @@
 # Documentação da API TOTVS
 
-Bem-vindo à documentação da API TOTVS. Esta API, baseada em FastAPI, oferece acesso a várias informações relacionadas à TOTVS, a maior empresa de Tecnologia do Brasil. Você pode utilizar esta API para obter detalhes sobre a TOTVS, seus produtos, iniciativas de inovação, prêmios, projetos de responsabilidade social e muito mais.
+Boas vindas à documentação da API TOTVS. Esta API, baseada em FastAPI, oferece acesso a várias informações relacionadas à TOTVS, a maior empresa de Tecnologia do Brasil. Você pode utilizar esta API para obter detalhes sobre a TOTVS, seus produtos, iniciativas de inovação, prêmios, projetos de responsabilidade social e muito mais.
 
 ## Primeiros Passos
 
